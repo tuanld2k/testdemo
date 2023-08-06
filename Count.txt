@@ -1,0 +1,16 @@
+8
+9
+Để hoàn thành cấp độ này, hãy làm theo các bước bên dưới:
+
+Tạo một nhánh mới tên là bugFix
+Chuyển sang nhánh bugFix với git checkout bugFix
+Commit một lần
+Trở về main với git checkout
+Commit một lần nữa
+Gộp nhánh bugFix vào main với git merge
+Nhớ rằng, bạn luôn luôn có thể bật lại hộp thoại này với lệnh "objective"!
+
+Chuyển sang nhánh mới tên là bugFix
+Commit một lần
+Quay về main và commit lần nữa
+Quay trở lại bugFix và rebase sang main
